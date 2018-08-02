@@ -1,4 +1,4 @@
-<?php require_once("PHP/conecta.php") ?>
+<?php require_once("php/conecta.php") ?>
 <?php
     session_start();
 

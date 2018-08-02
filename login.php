@@ -1,4 +1,4 @@
-<?php require_once("PHP/conecta.php") ?>
+<?php require_once("php/conecta.php") ?>
 <?php
         //adicionando variavel de sessão
             session_start();
@@ -44,7 +44,7 @@ Usuário e/ou Senha inválidos!
         <meta http-equiv="X-UA-Compatible" content="IE-edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link href="_css/estiloLogin.css" rel="stylesheet">
+        <link href="_css/cssLogin.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400" rel="stylesheet">
         <meta charset="utf-8">
     </head>
