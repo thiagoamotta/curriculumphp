@@ -53,7 +53,8 @@ Usuário e/ou Senha inválidos!
         <div class="container-fluid">
         <div class="div col-sm-offset-6 col-md-offset-6 col-lg-offset-4">
             <div class="container2">
-            <img class="img-responsive img-circle" src="img/thiago.png"/>
+                
+            <img class="img-responsive img-circle" src="img/perfil.png"/>
             <p>Thiago Alves - Curriculum Vitae</p>
                 
             <form action="login.php" method="post">
