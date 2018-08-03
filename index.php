@@ -46,7 +46,7 @@
                         <span class="icon-bar"></span>
                     </button>                      
                 <div id="curriculum">     
-                    <a href="infocv.php" class="navbar-brand">
+                    <a href="index.php" class="navbar-brand">
                         Curriculum Vitae
                     </a>
                 </div>
@@ -56,6 +56,7 @@
                 <div class="collapse navbar-collapse pull-right" id="movelmenu">
                     <ul class="nav navbar-nav">
                         <li><a class="scroll" href="#sobremim">Sobre Mim</a></li>
+                        <li><a class="scroll" href="#experiencias">Experiências</a></li>
                         <li><a class="scroll" href="#hobbies">Hobbies</a></li>
                         <li><a class="scroll" href="#conhecimentos">Conhecimentos</a></li>
                         <li><a class="scroll" href="#contatos">Contatos</a></li>
@@ -80,6 +81,20 @@
         
         <div class="textoTopo" > 
         <h3><u>Sobre Mim</u></h3>
+        <br>
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur auab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem".
+        </div>
+        </div>
+        
+        <!--Experiencias-->
+        <div class="row" id="experiencias">
+        
+        <div class="imagemExp col-md-3">
+            <img class="img-responsive img-rounded" src="img/exp.jpg"/>
+        </div>
+        
+        <div class="textoExp" > 
+        <h3><u>Experiências</u></h3>
         <br>
         "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur auab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem".
         </div>

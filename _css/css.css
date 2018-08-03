@@ -54,31 +54,40 @@ div.row{
         font-size: 17px; 
         
 }
+.imagemExp{
+        margin-bottom: 10px;
+        float: right;
+}
+.textoExp{
+        padding: 10px;
+        font-size: 17px; 
+        text-align: right;
+        
+}
 .imagemCentro{
-        float: right; 
+        float: left; 
         margin-bottom: 10px;
 }
 .textoCentro{
         padding: 10px;
-        text-align: right;
         font-size: 17px;
 }
 .imagemRodape{
-        float: left;
+        float: right;
         margin-bottom: 10px;
 }
 .textoRodape{
         padding: 10px;
         font-size: 17px;
+        text-align: right;
 }
 .imagemContato{
-        float: right;
+        float: left;
         margin-bottom: 10px;
 }
 .textoContato{
         padding: 10px;
         font-size: 17px;
-        text-align: right;
 }
 #map{
         border-radius: 10px;
